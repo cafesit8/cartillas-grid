@@ -15,7 +15,7 @@ body{
 
 .container{
     position: relative;
-    width: 75%;
+    width: 90%;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, 16em);
@@ -154,7 +154,7 @@ body{
     font-size: 12px;
 }
 
-@media only screen and (max-width: 1240px){
+@media only screen and (max-width: 850px){
 
     body{
         width: 100%;
